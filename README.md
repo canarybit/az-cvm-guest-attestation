@@ -1,4 +1,4 @@
-⚠️ **Note:** This repository is a clone of the original Azure Confidential Computing Confidential VM Guest Attestation repo:
+ℹ️ **Note:** This repository includes only the Platform Guest Attestation code from the original Azure Confidential Computing Confidential VM Guest Attestation repository:
 https://github.com/Azure/confidential-computing-cvm-guest-attestation
 
 # Platform Guest Attestation
