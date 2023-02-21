@@ -1,3 +1,6 @@
+- Note: This repository is a clone of the original Azure Confidential Computing Confidential VM Guest Attestation repo:
+https://github.com/Azure/confidential-computing-cvm-guest-attestation
+
 # Platform Guest Attestation
 Guest attestation is the process of cryptographically appraising a VM’s reported state, ensuring the reported security properties can be trusted and that they meet the requirements of a baseline attestation policy.
 
